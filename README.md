@@ -8,7 +8,7 @@ The objective is to understand how factors such as **weekly GenAI usage, prompt 
 
 The project follows an end-to-end analytics workflow:
 
-**Excel Dataset → MySQL → SQL Analysis → Power BI Dashboard**
+**Kaggle CSV → MySQL → SQL Analysis → Power BI Dashboard**
 
 ---
 
