@@ -22,20 +22,20 @@ The project follows an end-to-end analytics workflow:
 - Identify trends in AI adoption across different years of study.
 
 ---
+- ##  Tools & Technologies
 
-##  Tools & Technologies
-
-- **MySQL** – Data storage and SQL querying
-- **SQL** – Data exploration and KPI calculations
-- **Power BI** – Data visualization and dashboard creation
-- **Microsoft Excel** – Source dataset
+- **Kaggle** – Source of the dataset
+- **CSV** – Raw data format
+- **MySQL** – Relational database management system used for data storage and management
+- **SQL** – Data querying, exploration, and KPI calculations
+- **Power BI** – Dashboard development and interactive visualizations
 
 ---
 
 ##  Dataset Information
 
 - **Source:** Kaggle
-- **Format:** Excel (.xlsx)
+- **Format:** CSV (.csv)
 - **Records:** 9,860 students
 - **Key Features:**
   - Student_ID
